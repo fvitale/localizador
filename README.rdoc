@@ -1,3 +1,3 @@
 Bienvenido al Localizador.
-En éste readme se ira agregando la información necesaria para comenzar con su uso.
+En éste readme se irá agregando la información necesaria para comenzar con su uso.
 Hasta luego.
